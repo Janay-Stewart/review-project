@@ -6,14 +6,14 @@
      }
    
    body {
-     background-color: #64A6BD;
+     background-color: #1a6b88;
      justify-content: center;
      align-items: center;
      display: flex;
      min-height: 100vh;
        }
 .box {
-    background-color: #efefef;
+    background-color: #bea6a6;
     padding-left: 60px;
     padding: 60px;
 }
@@ -22,7 +22,7 @@
     margin-bottom: 40px;
    text-align: center;
    font-size: 26px;
-   color: #c2095a;
+   color: #30272b;
    font-family: sans-serif;
 }
 input {
@@ -44,8 +44,8 @@ input {
      display: flex;
      font-size: 20px;
      font-weight: 500;
-     background-color: #64A6BD;
-     color: #c2095a;
+     background-color: #0c3544;
+     color: #dbbecb;
      justify-content: center;
      cursor: pointer;
      text-align: center;
